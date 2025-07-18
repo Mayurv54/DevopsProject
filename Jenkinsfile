@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKER_IMAGE = "mayurv54/demo"
-        DOCKER_CREDENTIALS_ID = 'dockerhubpass'
+        DOCKER_CREDENTIALS_ID = 'dockerhub'
     }
 
     stages {
