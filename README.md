@@ -2,7 +2,6 @@
 
 This is a simple DevOps pipeline project demonstrating CI/CD automation using *Jenkins, **Docker, and **Docker Compose*. The application is containerized and deployed locally using Docker Compose.
 
-
 ## 🚀 Project Features
 
 - GitHub integrated CI/CD pipeline using Jenkins
