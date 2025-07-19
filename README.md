@@ -125,4 +125,5 @@ This project is licensed under the MIT License.
 
 ## ✨ Author
 
-* [Mayur V](https://github.com/Mayurv54)
+* [Mayur V] (https://github.com/Mayurv54)
+* [Bhagyavan]
